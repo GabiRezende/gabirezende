@@ -15,7 +15,7 @@
 
 I'm a computer systems student focused on automation, data and using Python to solve real-world problems.
 
-I enjoy turning repetitive tasks, disorganized spreadsheets, and manual workflows into more structed, useful and automated solutions.
+I enjoy turning repetitive tasks, disorganized spreadsheets, and manual workflows into more structured, useful and automated solutions.
 
 Currently, I'm building small tools and scripts that reduce manual work, improve data organization and make everyday workflows smoother.
 
